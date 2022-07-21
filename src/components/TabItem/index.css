@@ -1,0 +1,14 @@
+/* Write your CSS here */
+
+.tab-list {
+  background-color: transparent;
+  border: 0;
+  margin-top: 10px;
+  font-size: 18px;
+}
+
+.style {
+  color: #2563eb;
+  text-decoration: underline;
+  font-size: 20px;
+}
